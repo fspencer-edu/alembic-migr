@@ -24,3 +24,5 @@ alembic/*.pyc
 node_modules/
 dist/
 build/
+
+README.md
