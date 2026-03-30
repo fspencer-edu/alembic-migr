@@ -2,7 +2,7 @@
 
 ## Connect to database
 
-
+`mariadb -h 127.0.0.1 -P 3308 -u fiona -p alembic_db`
 
 - Generate migration
 `alembic revision --autogenerate -m "message"`
