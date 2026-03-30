@@ -26,4 +26,4 @@ dist/
 build/
 
 README.md
-alembic.init
+alembic.ini
