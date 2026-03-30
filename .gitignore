@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# dotenv
+.env
+
+# Alembic cache
+alembic/*.pyc
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Node (if you add frontend later)
+node_modules/
+dist/
+build/
